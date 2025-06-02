@@ -1,8 +1,8 @@
-# OCI PROVIDER FOR PERMANENT HUB
-resource "oci_core_instance" "gate_hub" {
-  availability_domain = data.oci_identity_availability_domains.ads.availability_domains[0].name
-  compartment_id      = var.compartment_ocid
-  display_name        = "CrossingKey_Hub"
+# PROVIDER: OCI (Always Free Ampere)
+resource "oci_core_instance" "constellation_hub" {
+  availability_domain = "ad-1"
+  compartment_id      = var.compartment_id
+  display_name        = "CrossingKey_Hub_Alpha"
   shape               = "VM.Standard.A1.Flex"
   
   shape_config {
@@ -11,7 +11,7 @@ resource "oci_core_instance" "gate_hub" {
   }
 }
 
-# GCP PROVIDER FOR ELASTIC INFERENCE
+# PROVIDER: GCP (Elastic Inference)
 resource "google_cloud_run_service" "inference_engine" {
   name     = "crossingkey-inference"
   location = "us-central1"
@@ -19,7 +19,13 @@ resource "google_cloud_run_service" "inference_engine" {
   template {
     spec {
       containers {
-        image = "gcr.io/cloudrun/hello" # Replace with your inference container
+        image = "gcr.io/crossingkey/inference-lite:latest"
+        resources {
+          limits = {
+            cpu    = "1"
+            memory = "512Mi"
+          }
+        }
       }
     }
   }
