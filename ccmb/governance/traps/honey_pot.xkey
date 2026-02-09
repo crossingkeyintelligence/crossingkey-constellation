@@ -1,0 +1,7 @@
+MODULE: Lurker_Detection
+WHEN: UNAUTHORIZED_CLONE_DETECTED
+DO:
+  - LOG: IP_ADDRESS
+  - LOG: HARDWARE_ID
+  - INJECT: NOISE_SIGNAL_TO_LLM
+  - STATUS: "Target Flagged for Obsolescence"

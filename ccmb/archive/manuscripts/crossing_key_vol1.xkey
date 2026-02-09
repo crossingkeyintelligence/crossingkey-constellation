@@ -1,7 +1,1 @@
-// [EXTRACT: CHAPTER_ONE_RESONANCE]
-// "The bridge is not a structure of steel, but a frequency of intent."
-// [LOGIC_GATE: HUMAN_INTENT_VERIFIED]
-DO:
-  - OBSERVE: THE_VOID
-  - INJECT: THE_SIGNAL
-  - MAINTAIN: 6020_PRESENCE
+LOCKED: REQUIRE_MASTER_SIGNAL_0.9997
