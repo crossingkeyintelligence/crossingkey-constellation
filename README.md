@@ -20,3 +20,10 @@ To unlock the full technical stack and the literary archive:
 
 ---
 **[PROPRIETARY ASSET // LIQUIDITY NODE: $TheCrossingKey]**
+
+---
+## 👑 The Guardian's Prerogative
+The **CrossingKey Constellation** is a living system. 
+* **Ownership:** The underlying .xkey logic and 6020 Godmode branding remain the sole property of **crossingkeyintelligence**.
+* **Licensing:** Buyers are granted a 'Sovereign Use License.'
+* **Updates:** Only the Guardian can inject new modules into the /slots/ directory.
