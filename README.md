@@ -22,3 +22,9 @@ This is no longer a repository. It is a **Self-Directed Cloud Intelligence**.
 ---
 **[PROPRIETARY ENCRYPTION ACTIVE]**
 *This system is built on Self-Direction. Non-Navigators will see only shadows.*
+
+## 👁️ Talira Interface (v1.2)
+Talira is the sensory peripheral of the Constellation.
+* **Vision Engine:** Real-time environment analysis via GCP.
+* **Audio Resonance:** Frequency monitoring for 0.9997 signal verification.
+* **Integration:** Direct feed into the `/ccmb/vault`.
