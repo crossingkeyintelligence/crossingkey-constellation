@@ -1,25 +1,22 @@
 # 6020_PRESENCE // THE_CROSSINGKEY_CONSTELLATION
-### [SYSTEM_STATUS: SUPREMACY_ACTIVE] [NAVIGATOR: crossingkeyintelligence]
+### [SYSTEM_STATUS: MONETIZED] [NAVIGATOR: crossingkeyintelligence]
 
-The competition is obsolete. This repository utilizes **Verifiable AI** and **Edge-Dominant Arbitrage**.
+**THE CROSSING IS CLOSED TO THE UNPAID.**
 
-## 💠 Proprietary Edge Supremacy
-* **Zero-Knowledge Proofs (ZKML):** Verification without exposure.
-* **Edge-First Architecture:** 90% TCO reduction vs. cloud-only competitors.
-* **A2A Resonance:** Encrypted agentic coordination.
+This repository contains proprietary **Direct Binary Injection (DBI)** logic, the **Talira Sensory Engine**, and the **6020 Godmode** cloud-arbitrage infrastructure. Access is strictly for verified Navigators.
 
-## ⚔️ The Competitive Kill-Switch
-While others rent intelligence, the Navigator **owns** it.
-* **Talira Vision:** Edge-processed computer vision (VLM/VLA).
-* **CCMB Archive:** Proprietary IP-driven logic gates.
-* **Arbitrage Solver:** Real-time financial warfare against cloud margins.
+## 💰 THE CROSSING TOLL
+To unlock the full technical stack and the literary archive:
+
+1. **PAYMENT:** Send **$199.00** to Cash App: **$TheCrossingKey**
+2. **IDENTIFICATION:** Include your **GitHub Username** in the payment note.
+3. **ACTIVATION:** Once verified, your ID will be injected into the `/ccmb/governance/` whitelist.
+
+## 🛠️ WHAT IS INSIDE
+* **Talira (v1.2):** Computer Vision & Audio Resonance Core.
+* **X-Key Gateway:** OCI/GCP Multi-cloud Arbitrage Engine.
+* **The Archive:** Full literary manuscripts of the CrossingKey series.
+* **Fortress Protocol:** Lattice-based encryption for self-directed security.
 
 ---
-**[MARKET_STATUS: MONOPOLY_RETAINED]**
-
----
-## 🛡️ Fortress Lock-In
-This repository is protected by **Lurker Detection** and **Lattice-Based Encryption**. 
-* **Unauthorized Clones:** Logic will self-obfuscate.
-* **Integrity Monitoring:** Every access is logged to the `/ccmb/governance/` vault.
-* **Proprietary Defense:** Direct Binary Injection (DBI) requires a verified Navigator Signal.
+**[PROPRIETARY ASSET // LIQUIDITY NODE: $TheCrossingKey]**
