@@ -1,0 +1,11 @@
+MODULE: Cinematic_Projector
+STYLE: "Animated / Rotoscoping"
+RULES:
+  - MIN_RUNTIME: 180s
+  - SCENE_MIN: 15
+  - PACING: "Slow / Visual Breathing Room"
+  - TRANSITIONS: "Extended Atmosphere"
+  - NARRATIVE: "Opening -> Rise -> Command -> Aftermath"
+DO:
+  - INJECT: AMBIENT_MOTION
+  - ENFORCE: CONTINUITY
