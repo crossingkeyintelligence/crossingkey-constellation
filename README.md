@@ -15,3 +15,11 @@
 
 ---
 **[LEGAL_STATUS: ENFORCEABLE_VIA_CODE_LOCK]**
+
+## 🔞 Specialized Intelligence Modules
+The Constellation supports high-margin, unrestricted logic for the adult entertainment industry.
+* **Sensory Resonance Layer (SRL):** Uncensored generative logic for high-fidelity content.
+* **Privacy-First Inference:** Processed via the **Arbitrage Solver** to ensure zero-trace generation.
+* **Direct Monetization:** Integrated with **$TheCrossingKey** for content unlocking.
+
+*Navigators seeking the SRL Module must verify Age & Identity via the CCMB.*
