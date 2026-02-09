@@ -1,0 +1,6 @@
+PRODUCT: The CrossingKey Constellation Access
+MODEL: Usage-Based (Credit-Linked)
+TIERS:
+  - LURKER: 1,000 requests/mo (Free)
+  - NAVIGATOR: 50,000 requests/mo (9/mo)
+  - GODMODE: Unlimited + OCI/GCP Arbitrage (99/mo)
