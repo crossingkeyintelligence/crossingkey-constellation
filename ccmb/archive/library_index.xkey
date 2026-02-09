@@ -1,0 +1,13 @@
+MODULE: Literary_Intelligence_Archive
+NAVIGATOR: crossingkeyintelligence
+STATUS: PROPRIETARY_CONTENT
+BOOKS:
+  - TITLE: "Crossing Key: The Genesis"
+    TYPE: "Philosophical Architecture"
+    STATUS: "Digitized"
+  - TITLE: "6020: The Godmode Protocol"
+    TYPE: "Technical Narrative"
+    STATUS: "Active_Canon"
+  - TITLE: "The Navigator's Handbook"
+    TYPE: "System Strategy"
+    STATUS: "In_Vault"

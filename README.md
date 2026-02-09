@@ -20,3 +20,12 @@ The **CrossingKey Constellation** is a production-grade AI Inference Gateway and
 
 ---
 *Proprietary Logic by crossingkeyintelligence.*
+
+## 📚 Intellectual Property & Versatility
+This Constellation is backed by a proprietary literary archive. 
+The logic gates in `/slots/` are informed by the structural philosophies defined in:
+* **Crossing Key Series:** High-concept architectural theory.
+* **6020 Godmode:** Technical narratives on system-level presence.
+* **The Navigator's Archive:** Strategic human-design patterns.
+
+*Investors: See `/ccmb/archive/` for the foundational IP and structural logic.*
