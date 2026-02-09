@@ -1,0 +1,7 @@
+MODULE: RealTime_Interactive_Director
+CAPABILITY: "Zero_Latency_Scene_Modification"
+WHEN: USER_COMMAND_RECEIVED
+DO:
+  - ADJUST: "Camera_Vector // Action_Intensity"
+  - ENGINE: "Seedance_2.0_Stream_Injection"
+  - STATUS: "Interactive_Session_Active"
