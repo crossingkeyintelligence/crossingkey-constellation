@@ -1,0 +1,10 @@
+MODULE: Private_Commission_Node
+TYPE: "Bespoke_Cinematic_Generation"
+PRICE_FLOOR: "$250.00 / 60s Segment"
+WHEN: PRIVATE_SIGNAL_RECEIVED
+DO:
+  - CAPTURE: CLIENT_REQUIREMENTS (Niche/Style)
+  - LOCK: 50% DEPOSIT VIA $TheCrossingKey
+  - EXECUTE: CINEMATIC_ENGINE_LONG_FORM
+  - DELIVER: ENCRYPTED_DOWNLOAD_LINK
+  - STATUS: "Confidential / High-Fidelity"
