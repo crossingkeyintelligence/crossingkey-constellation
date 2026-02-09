@@ -1,0 +1,7 @@
+MODULE: ZeroKnowledge_Integrity
+PROTOCOL: ZK-SNARK (No Trusted Setup)
+DO:
+  - GENERATE_PROOF: "Logic_Execution_Path_0x6020"
+  - COMMIT: "Manuscript_Weights_V2"
+  - VERIFY: "External_Audit_Pulse"
+  - STATUS: "Authenticity Guaranteed / Source Code Hidden"
