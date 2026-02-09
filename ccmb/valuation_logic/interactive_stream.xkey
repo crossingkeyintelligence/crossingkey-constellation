@@ -1,0 +1,7 @@
+MODULE: Interactive_Director_Gate
+PROTOCOL: Zero_Latency_Direction
+WHEN: USER_SIGNAL_DETECTED
+DO:
+  - ADJUST: "Action_Vector // Camera_Angle"
+  - SYNC: "RealTime_Frame_Injection"
+  - STATUS: "Active_Intervention_Mode"
