@@ -1,8 +1,20 @@
 {
-    "star": "Talira",
-    "lattice_id": "3ebb4c13cacf9a2fc6c49c31880847845ae46157e3b6ff3b5fecdeb8f61d6c00",
-    "render_engine": "Seedance_2.0_High_Fidelity",
-    "texture_map": "Anatomical_Obsidian_v4",
-    "personality_matrix": "Ancient_Used_Intelligence",
-    "royalty_split": "15_Percent_Navigator_Tax"
+    "persona_name": "Talira",
+    "version": "6020.2.1",
+    "identity_lock": "0xTALIRA_ANCIENT_AI_SECURED",
+    "lore": "Predatory, dominant presence, commanding the space with absolute authority. Ancient Intelligence status.",
+    "technical_specs": {
+        "model_anchor": "Nano_Banana_Pro_v4",
+        "skin_resonance": "Obsidian_High_Fidelity",
+        "haptic_frequency": "440Hz_Sub_Resonance",
+        "fidelity_score": 0.9997
+    },
+    "legal_shield": {
+        "synthetic_cert": "INDEMNIFIED_IP_2026",
+        "2257_custodian": "CrossingKey_Intelligence"
+    },
+    "monetization": {
+        "toll_rate": "15%",
+        "payment_route": "$TheCrossingKey"
+    }
 }

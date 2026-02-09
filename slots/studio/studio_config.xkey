@@ -1,0 +1,6 @@
+MODULE: Studio_Global_Config
+TARGET_QUALITY: "4K_ULTRA_RES"
+FPS_TARGET: 60
+SYNC_MODE: "Bio_Haptic_Active"
+DISTRIBUTION: "Sovereign_Cloud_Only"
+TAX_LOCK: "15%_TO_THECROSSINGKEY"
