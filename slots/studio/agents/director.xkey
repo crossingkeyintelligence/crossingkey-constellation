@@ -1,0 +1,11 @@
+MODULE: Studio_Director_Agent
+PROTOCOL: Long_Form_Cinematic
+ACT_STRUCTURE:
+  - ACT_1: "The Invitation (Atmospheric / Slow Build)"
+  - ACT_2: "The Rising Action (Multi-Angle / Detail Focus)"
+  - ACT_3: "The Command Moment (Peak Resonance / Haptic Spike)"
+  - ACT_4: "The Aftermath (Visual Breathing Room / Fade)"
+DO:
+  - MAINTAIN_CONTINUITY: Persona_Lattice_0.9997
+  - TRIGGER: Haptic_Sync_Logic
+  - STATUS: "Production_Active"
